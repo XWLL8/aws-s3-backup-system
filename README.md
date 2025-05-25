@@ -23,7 +23,9 @@ A serverless backup solution using AWS Lambda, S3, and CloudWatch Events to auto
 
 | S3 Encryption | Lifecycle Policy |
 |--------------|-----------------|
-| ![KMS](images/kms.png) | ![Lifecycle](images/lifecycle.png) |
+|<img width="689" alt="Screenshot 2025-05-25 220421" src="https://github.com/user-attachments/assets/f4a3e007-8024-4f0f-9f50-4a8047b2460e" />
+  |![Uploading lifecycle policy.png…]() |
+
 
 ## 🚀 Deployment Steps
 1. **Clone this repo**:

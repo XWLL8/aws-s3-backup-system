@@ -16,19 +16,16 @@ A serverless backup solution using AWS Lambda, S3, and CloudWatch Events to auto
 - **Infrastructure**: Serverless, event-driven
 - **Compliance**: Aligns with Saudi NCA/SAMA CSF standards
 
-## 📸 Proof of Implementation
+## 📸 Implementation Proof
 
-### Serverless Backup Workflow
-| Component | Screenshot |
-|-----------|------------|
-| **Lambda Function Configuration** | ![Lambda Console](https://github.com/user-attachments/assets/3d047d0c-a818-4d4b-ade0-0c393ab6eb59) |
-| **CloudWatch Success Metrics** | ![100% Success Rate](https://github.com/user-attachments/assets/3ffc22cd-8552-4f63-a41c-fd794611d8fc) |
+<div align="center">
 
-### Security & Cost Optimization
-| Feature | Proof |
-|---------|-------|
-| **KMS Encryption Enabled** | ![S3 Encryption Settings](https://github.com/user-attachments/assets/f4a3e007-8024-4f0f-9f50-4a8047b2460e) |
-| **Glacier Lifecycle Policy** | ![30-Day Transition Rule](https://github.com/user-attachments/assets/fa53f3c1-2149-447b-bdd1-51b41ef1132d) |
+| Service Configuration | Monitoring & Optimization |
+|-----------------------|---------------------------|
+| <img src="https://github.com/user-attachments/assets/3d047d0c-a818-4d4b-ade0-0c393ab6eb59" width="300" alt="Lambda Config"> <br> **Lambda Function** | <img src="https://github.com/user-attachments/assets/3ffc22cd-8552-4f63-a41c-fd794611d8fc" width="300" alt="CloudWatch Metrics"> <br> **100% Success Rate** |
+| <img src="https://github.com/user-attachments/assets/f4a3e007-8024-4f0f-9f50-4a8047b2460e" width="300" alt="S3 Encryption"> <br> **KMS Encryption** | <img src="https://github.com/user-attachments/assets/fa53f3c1-2149-447b-bdd1-51b41ef1132d" width="300" alt="Lifecycle Policy"> <br> **Glacier Transition** |
+
+</div>
 
 
 ## 🚀 Deployment Steps
